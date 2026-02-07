@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/S_Margin"
+        android:layout_marginTop="@dimen/S_Margin"
+        android:layout_marginEnd="@dimen/S_Margin"
+        android:layout_marginBottom="@dimen/S_Margin"
+        android:backgroundTint="@color/grey_L"
+        android:clickable="false"
+        app:cardCornerRadius="@dimen/Card_corner"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/fontDay"
+                android:layout_marginTop="@dimen/S_Margin"
+                android:layout_marginEnd="@dimen/M_Margin"
+                android:gravity="start"
+                android:text="TextView"
+                android:textAlignment="textStart"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontName"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toEndOf="@+id/poster"
+                app:layout_constraintTop_toBottomOf="@+id/day" />
+
+            <TextView
+                android:id="@+id/day"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/M_Margin"
+                android:layout_marginTop="@dimen/M_Margin"
+                android:layout_marginEnd="@dimen/M_Margin"
+                android:gravity="start"
+                android:text="TextView"
+                android:textAlignment="textStart"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontDay"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toEndOf="@+id/poster"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/poster"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/S_Margin"
+                android:layout_marginTop="@dimen/S_Margin"
+                android:layout_marginBottom="@dimen/S_Margin"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="1.0"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/desc"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/M_Margin"
+                android:layout_marginTop="@dimen/S_Margin"
+                android:layout_marginEnd="@dimen/M_Margin"
+                android:layout_marginBottom="@dimen/fontDay"
+                android:gravity="start"
+                android:text="TextView"
+                android:textAlignment="textStart"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontDesc"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toEndOf="@+id/poster"
+                app:layout_constraintTop_toBottomOf="@+id/name"
+                app:layout_constraintVertical_bias="0.0" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,3 +1,157 @@
 <resources>
-    <string name="app_name">Lab3</string>
+    <string name="app_name" translatable="false">Lab3</string>
+
+    <string name="day_prefix">Day %1$d</string>
+    <string name="App">Short games for every day</string>
+
+    <!-- Day 1 -->
+    <string name="day1_title">A Short Hike</string>
+    <string name="day1_short">A relaxing exploration game about climbing a mountain.</string>
+    <string name="day1_long">A Short Hike is a cozy indie game focused on exploration and relaxation. You play as a character hiking through a peaceful island, meeting other hikers, collecting items, and slowly climbing toward the mountain peak.</string>
+
+    <!-- Day 2 -->
+    <string name="day2_title">Abzû</string>
+    <string name="day2_short">A beautiful underwater adventure with a focus on atmosphere.</string>
+    <string name="day2_long">Abzû is an artistic exploration game set in the ocean depths. The player swims through stunning underwater environments, discovering marine life and ancient secrets without combat or dialogue.</string>
+
+    <!-- Day 3 -->
+    <string name="day3_title">Brothers: A Tale of Two Sons</string>
+    <string name="day3_short">An emotional adventure controlled with two characters.</string>
+    <string name="day3_long">Brothers tells the story of two siblings on a dangerous journey to save their father. The game uses a unique control scheme that strengthens its emotional impact and storytelling.</string>
+
+    <!-- Day 4 -->
+    <string name="day4_title">Dear Esther</string>
+    <string name="day4_short">A narrative-driven exploration experience.</string>
+    <string name="day4_long">Dear Esther is a walking simulator that focuses on storytelling through environment and narration. The player explores a remote island while uncovering fragments of a mysterious story.</string>
+
+    <!-- Day 5 -->
+    <string name="day5_title">Donut County</string>
+    <string name="day5_short">A humorous puzzle game about a growing hole.</string>
+    <string name="day5_long">Donut County is a physics-based puzzle game where you control a hole in the ground that swallows objects. The game combines simple mechanics with charming humor and storytelling.</string>
+
+    <!-- Day 6 -->
+    <string name="day6_title">Far: Lone Sails</string>
+    <string name="day6_short">A calm journey across a ruined world.</string>
+    <string name="day6_long">Far: Lone Sails is an atmospheric adventure where you guide a vehicle across desolate landscapes. The game focuses on solitude, environmental storytelling, and emotional atmosphere.</string>
+
+    <!-- Day 7 -->
+    <string name="day7_title">Firewatch</string>
+    <string name="day7_short">A story-driven mystery set in the wilderness.</string>
+    <string name="day7_long">Firewatch places the player in the role of a fire lookout in a remote forest. Through exploration and dialogue, the game tells a personal and emotional story.</string>
+
+    <!-- Day 8 -->
+    <string name="day8_title">Florence</string>
+    <string name="day8_short">An interactive story about love and relationships.</string>
+    <string name="day8_long">Florence is a short narrative game that tells a heartfelt story through simple interactions and visuals. It focuses on everyday moments and emotional connections.</string>
+
+    <!-- Day 9 -->
+    <string name="day9_title">Gone Home</string>
+    <string name="day9_short">Explore an empty house and uncover a family story.</string>
+    <string name="day9_long">Gone Home is a first-person exploration game where the player investigates a deserted house. By examining objects and notes, a personal story slowly unfolds.</string>
+
+    <!-- Day 10 -->
+    <string name="day10_title">GRIS</string>
+    <string name="day10_short">A visually stunning platformer about emotions.</string>
+    <string name="day10_long">GRIS is an artistic platformer that tells an emotional story through color, music, and animation. The game avoids text and focuses on visual storytelling.</string>
+
+    <!-- Day 11 -->
+    <string name="day11_title">Inside</string>
+    <string name="day11_short">A dark and atmospheric puzzle platformer.</string>
+    <string name="day11_long">Inside is a story-driven puzzle platformer with a mysterious and unsettling atmosphere. The game relies on visuals and sound to tell its story without dialogue.</string>
+
+    <!-- Day 12 -->
+    <string name="day12_title">Journey</string>
+    <string name="day12_short">A silent adventure across vast deserts.</string>
+    <string name="day12_long">Journey is an exploration game focused on emotion and discovery. Players travel through a desert toward a distant mountain, occasionally meeting other anonymous players.</string>
+
+    <!-- Day 13 -->
+    <string name="day13_title">Katana ZERO</string>
+    <string name="day13_short">A fast-paced action game with a deep story.</string>
+    <string name="day13_long">Katana ZERO combines stylish combat with a psychological narrative. The game features fast action, time manipulation, and a strong focus on storytelling.</string>
+
+    <!-- Day 14 -->
+    <string name="day14_title">Kentucky Route Zero</string>
+    <string name="day14_short">A surreal narrative adventure.</string>
+    <string name="day14_long">Kentucky Route Zero is a story-focused game inspired by magical realism. It presents a strange and emotional journey through a mysterious version of rural America.</string>
+
+    <!-- Day 15 -->
+    <string name="day15_title">Limbo</string>
+    <string name="day15_short">A minimalist puzzle platformer.</string>
+    <string name="day15_long">Limbo is a dark and atmospheric platformer known for its simple visuals and challenging puzzles. The story is told entirely through the environment.</string>
+
+    <!-- Day 16 -->
+    <string name="day16_title">Little Nightmares</string>
+    <string name="day16_short">A creepy platformer with horror elements.</string>
+    <string name="day16_long">Little Nightmares is a puzzle platformer that blends horror and atmosphere. Players guide a small character through disturbing environments full of danger.</string>
+
+    <!-- Day 17 -->
+    <string name="day17_title">Night in the Woods</string>
+    <string name="day17_short">A narrative game about life and friendship.</string>
+    <string name="day17_long">Night in the Woods focuses on characters, dialogue, and themes of adulthood. The game explores mental health, relationships, and small-town life.</string>
+
+    <!-- Day 18 -->
+    <string name="day18_title">OneShot</string>
+    <string name="day18_short">A unique game that breaks the fourth wall.</string>
+    <string name="day18_long">OneShot is a puzzle adventure that directly interacts with the player. The game uses unusual mechanics to create a strong emotional connection.</string>
+
+    <!-- Day 19 -->
+    <string name="day19_title">Oxenfree</string>
+    <string name="day19_short">A supernatural story with dialogue choices.</string>
+    <string name="day19_long">Oxenfree is a narrative adventure featuring a group of friends on a mysterious island. Player choices influence dialogue and story outcomes.</string>
+
+    <!-- Day 20 -->
+    <string name="day20_title">Papers, Please</string>
+    <string name="day20_short">A game about decisions and moral choices.</string>
+    <string name="day20_long">Papers, Please puts the player in the role of a border officer. The game challenges players with ethical decisions under pressure.</string>
+
+    <!-- Day 21 -->
+    <string name="day21_title">Return of the Obra Dinn</string>
+    <string name="day21_short">A detective mystery aboard a ghost ship.</string>
+    <string name="day21_long">Return of the Obra Dinn is a unique investigation game where players uncover the fate of a missing ship crew using logic and deduction.</string>
+
+    <!-- Day 22 -->
+    <string name="day22_title">Sayonara Wild Hearts</string>
+    <string name="day22_short">A colorful musical arcade experience.</string>
+    <string name="day22_long">Sayonara Wild Hearts is a fast-paced rhythm game blending music, visuals, and emotion into a short but memorable experience.</string>
+
+    <!-- Day 23 -->
+    <string name="day23_title">Superhot</string>
+    <string name="day23_short">Time moves only when you move.</string>
+    <string name="day23_long">Superhot is a minimalist shooter where time progresses only when the player moves. This mechanic creates a unique and strategic experience.</string>
+
+    <!-- Day 24 -->
+    <string name="day24_title">The Beginner’s Guide</string>
+    <string name="day24_short">A reflective narrative about game creation.</string>
+    <string name="day24_long">The Beginner’s Guide explores the relationship between a creator and their work. The game is deeply personal and narrative-focused.</string>
+
+    <!-- Day 25 -->
+    <string name="day25_title">The Stanley Parable</string>
+    <string name="day25_short">A humorous and philosophical exploration.</string>
+    <string name="day25_long">The Stanley Parable is an interactive narrative that plays with player choice and storytelling. It constantly challenges expectations.</string>
+
+    <!-- Day 26 -->
+    <string name="day26_title">The Vanishing of Ethan Carter</string>
+    <string name="day26_short">A mysterious first-person investigation.</string>
+    <string name="day26_long">The Vanishing of Ethan Carter is a narrative game focused on exploration and mystery. Players piece together events through environmental clues.</string>
+
+    <!-- Day 27 -->
+    <string name="day27_title">To the Moon</string>
+    <string name="day27_short">A touching story-driven RPG.</string>
+    <string name="day27_long">To the Moon tells an emotional story through simple gameplay. The game focuses on memory, love, and fulfilling a dying wish.</string>
+
+    <!-- Day 28 -->
+    <string name="day28_title">Unpacking</string>
+    <string name="day28_short">A relaxing puzzle about personal spaces.</string>
+    <string name="day28_long">Unpacking tells a story through objects and rooms. Players unpack belongings and learn about a character’s life without dialogue.</string>
+
+    <!-- Day 29 -->
+    <string name="day29_title">Virginia</string>
+    <string name="day29_short">A cinematic psychological thriller.</string>
+    <string name="day29_long">Virginia is a narrative-driven experience inspired by television dramas. The story is told without dialogue, using visuals and music.</string>
+
+    <!-- Day 30 -->
+    <string name="day30_title">What Remains of Edith Finch</string>
+    <string name="day30_short">A collection of emotional short stories.</string>
+    <string name="day30_long">What Remains of Edith Finch explores the history of a family through interactive vignettes. Each story offers a unique gameplay experience.</string>
+
 </resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey_L">
+
+    <ImageView
+        android:id="@+id/image3"
+        android:layout_width="@dimen/weight_pic2"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/S_Margin"
+        android:layout_marginTop="@dimen/S_Margin"
+        android:layout_marginBottom="@dimen/M_Margin"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/image2"
+        app:layout_constraintTop_toTopOf="@+id/image2"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_width="@dimen/weight_pic2"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/M_Margin"
+        android:layout_marginTop="@dimen/S_Margin"
+        android:layout_marginBottom="@dimen/M_Margin"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="@dimen/weight_pic1"
+        android:layout_height="@dimen/height_pics2"
+        android:layout_marginStart="@dimen/M_Margin"
+        android:layout_marginTop="@dimen/M_Margin"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/textName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/S_Margin"
+        android:layout_marginTop="@dimen/M_Margin"
+        android:layout_marginEnd="@dimen/M_Margin"
+        android:text="TextView"
+        android:textColor="@color/white"
+        android:textSize="@dimen/fontName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/image3"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textDesc"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/S_Margin"
+        android:layout_marginTop="@dimen/S_Margin"
+        android:layout_marginEnd="@dimen/M_Margin"
+        android:layout_marginBottom="@dimen/M_Margin"
+        android:text="TextView"
+        android:textColor="@color/white"
+        android:textSize="@dimen/fontDesc"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/image3"
+        app:layout_constraintTop_toBottomOf="@+id/textName" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
