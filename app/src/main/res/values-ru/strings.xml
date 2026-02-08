@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="day_prefix">День %1$d</string>
+    <string name="App">Короткие игры на каждый день</string>
+
+    <!-- День 1 -->
+    <string name="day1_title">A Short Hike</string>
+    <string name="day1_short">Расслабляющая игра-исследование о восхождении на гору.</string>
+    <string name="day1_long">A Short Hike — это уютная инди-игра, сфокусированная на исследовании и релаксации. Вы играете за персонажа, путешествующего по мирному острову, встречаете других туристов, собираете предметы и медленно поднимаетесь к горной вершине.</string>
+
+    <!-- День 2 -->
+    <string name="day2_title">Abzû</string>
+    <string name="day2_short">Красивое подводное приключение с акцентом на атмосферу.</string>
+    <string name="day2_long">Abzû — это художественная игра-исследование, действие которой происходит в океанских глубинах. Игрок плавает по потрясающим подводным мирам, открывая морскую жизнь и древние секреты без боя и диалогов.</string>
+
+    <!-- День 3 -->
+    <string name="day3_title">Brothers: A Tale of Two Sons</string>
+    <string name="day3_short">Эмоциональное приключение с управлением двумя персонажами.</string>
+    <string name="day3_long">Brothers рассказывает историю двух братьев в опасном путешествии, чтобы спасти своего отца. Игра использует уникальную схему управления, усиливающую её эмоциональное воздействие и повествование.</string>
+
+    <!-- День 4 -->
+    <string name="day4_title">Dear Esther</string>
+    <string name="day4_short">Повествовательный опыт исследования.</string>
+    <string name="day4_long">Dear Esther — это «симулятор ходьбы», фокусирующийся на повествовании через окружение и закадровый голос. Игрок исследует отдаленный остров, раскрывая фрагменты таинственной истории.</string>
+
+    <!-- День 5 -->
+    <string name="day5_title">Donut County</string>
+    <string name="day5_short">Юмористическая головоломка о растущей дыре.</string>
+    <string name="day5_long">Donut County — это физическая головоломка, где вы управляете дырой в земле, которая поглощает предметы. Игра сочетает простую механику с очаровательным юмором и историей.</string>
+
+    <!-- День 6 -->
+    <string name="day6_title">Far: Lone Sails</string>
+    <string name="day6_short">Спокойное путешествие по разрушенному миру.</string>
+    <string name="day6_long">Far: Lone Sails — это атмосферное приключение, в котором вы ведете транспортное средство через безлюдные ландшафты. Игра фокусируется на одиночестве, повествовании через окружение и эмоциональной атмосфере.</string>
+
+    <!-- День 7 -->
+    <string name="day7_title">Firewatch</string>
+    <string name="day7_short">Сюжетная мистерия в условиях дикой природы.</string>
+    <string name="day7_long">Firewatch помещает игрока в роль дозорного на удаленной пожарной вышке в лесу. Через исследование и диалоги игра рассказывает личную и эмоциональную историю.</string>
+
+    <!-- День 8 -->
+    <string name="day8_title">Florence</string>
+    <string name="day8_short">Интерактивная история о любви и отношениях.</string>
+    <string name="day8_long">Florence — это короткая нарративная игра, рассказывающая трогательную историю через простые взаимодействия и визуальный ряд. Она фокусируется на повседневных моментах и эмоциональных связях.</string>
+
+    <!-- День 9 -->
+    <string name="day9_title">Gone Home</string>
+    <string name="day9_short">Исследуйте пустой дом и раскройте семейную историю.</string>
+    <string name="day9_long">Gone Home — это игра-исследование от первого лица, в которой игрок исследует заброшенный дом. Изучая предметы и записки, медленно раскрывается личная история.</string>
+
+    <!-- День 10 -->
+    <string name="day10_title">GRIS</string>
+    <string name="day10_short">Визуально потрясающий платформер об эмоциях.</string>
+    <string name="day10_long">GRIS — это художественный платформер, рассказывающий эмоциональную историю через цвет, музыку и анимацию. В игре нет текста, она полагается на визуальное повествование.</string>
+
+    <!-- День 11 -->
+    <string name="day11_title">Inside</string>
+    <string name="day11_short">Мрачный и атмосферный платформер-головоломка.</string>
+    <string name="day11_long">Inside — это сюжетный платформер-головоломка с загадочной и тревожной атмосферой. Игра полагается на визуальные эффекты и звук, чтобы рассказать свою историю без диалогов.</string>
+
+    <!-- День 12 -->
+    <string name="day12_title">Journey</string>
+    <string name="day12_short">Безмолвное приключение по бескрайним пустыням.</string>
+    <string name="day12_long">Journey — это игра-исследование, сфокусированная на эмоциях и открытиях. Игроки путешествуют по пустыне к далекой горе, иногда встречая других анонимных игроков.</string>
+
+    <!-- День 13 -->
+    <string name="day13_title">Katana ZERO</string>
+    <string name="day13_short">Динамичная экшн-игра с глубоким сюжетом.</string>
+    <string name="day13_long">Katana ZERO сочетает стильный комбат с психологическим нарративом. Игра предлагает быстрый экшен, манипуляции временем и сильный акцент на сюжете.</string>
+
+    <!-- День 14 -->
+    <string name="day14_title">Kentucky Route Zero</string>
+    <string name="day14_short">Сюрреалистическое нарративное приключение.</string>
+    <string name="day14_long">Kentucky Route Zero — это игра, ориентированная на историю и вдохновленная магическим реализмом. Она представляет странное и эмоциональное путешествие по загадочной версии сельской Америки.</string>
+
+    <!-- День 15 -->
+    <string name="day15_title">Limbo</string>
+    <string name="day15_short">Минималистичный платформер-головоломка.</string>
+    <string name="day15_long">Limbo — это темный и атмосферный платформер, известный своей простой графикой и сложными головоломками. История рассказывается полностью через окружающую среду.</string>
+
+    <!-- День 16 -->
+    <string name="day16_title">Little Nightmares</string>
+    <string name="day16_short">Жуткий платформер с элементами хоррора.</string>
+    <string name="day16_long">Little Nightmares — это платформер-головоломка, смешивающий хоррор и атмосферу. Игроки ведут маленького персонажа через тревожные среды, полные опасностей.</string>
+
+    <!-- День 17 -->
+    <string name="day17_title">Night in the Woods</string>
+    <string name="day17_short">Нарративная игра о жизни и дружбе.</string>
+    <string name="day17_long">Night in the Woods фокусируется на персонажах, диалогах и темах взросления. Игра исследует психическое здоровье, отношения и жизнь в маленьком городке.</string>
+
+    <!-- День 18 -->
+    <string name="day18_title">OneShot</string>
+    <string name="day18_short">Уникальная игра, ломающая четвертую стену.</string>
+    <string name="day18_long">OneShot — это головоломка-приключение, которая напрямую взаимодействует с игроком. Игра использует необычные механики для создания сильной эмоциональной связи.</string>
+
+    <!-- День 19 -->
+    <string name="day19_title">Oxenfree</string>
+    <string name="day19_short">Сверхъестественная история с выбором реплик.</string>
+    <string name="day19_long">Oxenfree — это нарративное приключение о группе друзей на загадочном острове. Выбор игрока влияет на диалоги и развитие сюжета.</string>
+
+    <!-- День 20 -->
+    <string name="day20_title">Papers, Please</string>
+    <string name="day20_short">Игра о решениях и моральном выборе.</string>
+    <string name="day20_long">Papers, Please ставит игрока на место пограничного офицера. Игра бросает вызов, заставляя принимать этические решения под давлением.</string>
+
+    <!-- День 21 -->
+    <string name="day21_title">Return of the Obra Dinn</string>
+    <string name="day21_short">Детективная тайна на борту корабля-призрака.</string>
+    <string name="day21_long">Return of the Obra Dinn — это уникальная игра-расследование, где игроки раскрывают судьбу пропавшего экипажа корабля, используя логику и дедукцию.</string>
+
+    <!-- День 22 -->
+    <string name="day22_title">Sayonara Wild Hearts</string>
+    <string name="day22_short">Красочный музыкальный аркадный опыт.</string>
+    <string name="day22_long">Sayonara Wild Hearts — это динамичная ритм-игра, сочетающая музыку, визуальные эффекты и эмоции в короткий, но запоминающийся опыт.</string>
+
+    <!-- День 23 -->
+    <string name="day23_title">Superhot</string>
+    <string name="day23_short">Время движется только когда двигаетесь вы.</string>
+    <string name="day23_long">Superhot — это минималистичный шутер, где время идет только когда движется игрок. Эта механика создает уникальный и стратегический опыт.</string>
+
+    <!-- День 24 -->
+    <string name="day24_title">The Beginner’s Guide</string>
+    <string name="day24_short">Размышляющий нарратив о создании игр.</string>
+    <string name="day24_long">The Beginner’s Guide исследует отношения между создателем и его работой. Игра глубоко личная и сфокусирована на повествовании.</string>
+
+    <!-- День 25 -->
+    <string name="day25_title">The Stanley Parable</string>
+    <string name="day25_short">Юмористическое и философское исследование.</string>
+    <string name="day25_long">The Stanley Parable — это интерактивная история, которая играет с выбором игрока и повествованием. Она постоянно бросает вызов ожиданиям.</string>
+
+    <!-- День 26 -->
+    <string name="day26_title">The Vanishing of Ethan Carter</string>
+    <string name="day26_short">Таинственное расследование от первого лица.</string>
+    <string name="day26_long">The Vanishing of Ethan Carter — это нарративная игра, сфокусированная на исследовании и тайне. Игроки собирают воедино события через подсказки в окружении.</string>
+
+    <!-- День 27 -->
+    <string name="day27_title">To the Moon</string>
+    <string name="day27_short">Трогательная сюжетная RPG.</string>
+    <string name="day27_long">To the Moon рассказывает эмоциональную историю через простой геймплей. Игра фокусируется на памяти, любви и исполнении последнего желания.</string>
+
+    <!-- День 28 -->
+    <string name="day28_title">Unpacking</string>
+    <string name="day28_short">Расслабляющая головоломка о личном пространстве.</string>
+    <string name="day28_long">Unpacking рассказывает историю через предметы и комнаты. Игроки распаковывают вещи и узнают о жизни персонажа без диалогов.</string>
+
+    <!-- День 29 -->
+    <string name="day29_title">Virginia</string>
+    <string name="day29_short">Кинематографический психологический триллер.</string>
+    <string name="day29_long">Virginia — это нарративный опыт, вдохновленный телевизионными драмами. История рассказана без диалогов, с использованием визуальных образов и музыки.</string>
+
+    <!-- День 30 -->
+    <string name="day30_title">What Remains of Edith Finch</string>
+    <string name="day30_short">Сборник эмоциональных коротких историй.</string>
+    <string name="day30_long">What Remains of Edith Finch исследует историю семьи через интерактивные виньетки. Каждая история предлагает уникальный игровой опыт.</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="L_Margin">160dp</dimen>
+    <dimen name="M_Margin">40dp</dimen>
+    <dimen name="S_Margin">20dp</dimen>
+    <dimen name="Card_corner">20dp</dimen>
+    <dimen name="height_pics">250dp</dimen>
+    <dimen name="height_pics2">330dp</dimen>
+    <dimen name="weight_pic1">700dp</dimen>
+    <dimen name="weight_pic2">350dp</dimen>
+
+    <dimen name="fontDay">30sp</dimen>
+    <dimen name="fontName">35sp</dimen>
+    <dimen name="fontDesc">28sp</dimen>
+</resources>
